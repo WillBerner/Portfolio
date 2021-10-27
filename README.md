@@ -1,4 +1,4 @@
-# [Personal Portfolio](https://willberner.github.io/Will-Berner/)
+# [Personal Portfolio](https://willberner.github.io/Portfolio/)
 
 My personal portfolio webpage. Created with React and styled via Bootstrap.
 
