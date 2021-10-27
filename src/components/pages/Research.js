@@ -42,7 +42,7 @@ export default function Research() {
                         In addition to teaching the joys of coding to new programmers at UNC-Chapel Hill, as an undergraduate I assisted with research for over two years in the Computer Science Department under Distinguished Professor Dr Henry Fuchs as part of the Graphics and Virtual Reality Research Group.
                     </h6>
                     <h6 className="text-center">
-                        My responsibilities differed depending on the ad-hoc teams with whom I worked. My main duty was to assist a handful of graduate students and research scientists in the group with various studies and tests.
+                        My responsibilities differed depending on the ad-hoc teams with which I worked. My main duty was to assist a handful of graduate students and research scientists in the group with various studies and tests.
                     </h6>
                 </div>
                 <div className="row mt-4 justify-content-between">
@@ -74,7 +74,7 @@ export default function Research() {
             <div className="row justify-content-around mb-3">
 
                 <p className="text-center">
-                    The project I assisted with in the group was the Dynamic Focus Augmented Reality Display project. I worked closely with PhD candidate and leader of the project David Dunn as we attempted to create a near-eye augemented reality display with dynamic focus using see-through deformable membranes. The membranes would deform with pressue from pumps to adjust for the user's near or far focal point. My largest responsibilty for the project was to create the sensitive deformable membranes in the cleanroom of <a href="https://chanl.unc.edu/" target="_blank" rel="noreferrer" style={linkStyle}>Chapel Hill's Analytical and Nanofabrication Laboratory</a> using processes such as degassing, spin-coating, sputter deposition, etc. We then used these membranes by placing them in housings and also sent them to our project collaborators at the <a href="https://www.mpi-inf.mpg.de/home" target="_blank" rel="noreferrer" style={linkStyle}>Max Planck Institut Informatik</a> for them to use.
+                    The project I assisted with in the group first was the Dynamic Focus Augmented Reality Display project. I worked closely with PhD candidate and leader of the project David Dunn as we attempted to create a near-eye augemented reality display with dynamic focus using see-through deformable membranes. The membranes would deform with pressue from pumps to adjust for the user's near or far focal point. My largest responsibilty for the project was to create the sensitive deformable membranes in the cleanroom of <a href="https://chanl.unc.edu/" target="_blank" rel="noreferrer" style={linkStyle}>Chapel Hill's Analytical and Nanofabrication Laboratory</a> using processes such as degassing, spin-coating, sputter deposition, etc. We then used these membranes by placing them in housings and also sent them to our project collaborators at the <a href="https://www.mpi-inf.mpg.de/home" target="_blank" rel="noreferrer" style={linkStyle}>Max Planck Institut Informatik</a> for them to use.
                 </p>
 
                 <p className="text-center">
