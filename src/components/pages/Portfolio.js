@@ -30,7 +30,7 @@ export default function Portfolio() {
             })}
 
             <p className="text-center">
-                More projects to be added soon.
+                Many more projects to be added soon.
             </p>
 
         </div>

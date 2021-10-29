@@ -28,7 +28,7 @@ export default function Teaching() {
             <div className="row justify-content-center mb-5">
                 <div className="row mx-3">
                     <h6 className="text-center">
-                        During my undergraduate studies at UNC-Chapel Hill, I worked in the Computer Science Department as Undergraduate Teaching Assistant for three different classes across six semesters, including one Summer semester.
+                        During my undergraduate studies at UNC-Chapel Hill, I worked in the Computer Science Department as an Undergraduate Teaching Assistant for three different classes across six semesters, including one summer semester.
                     </h6>
                 </div>
             </div>
@@ -45,7 +45,7 @@ export default function Teaching() {
                         </small>
                     </p>
                     <p className="text-center">
-                        My first teaching experience came when I was a second-semester freshman. After completing my first programming class in the fall, COMP 110, I was one of a few selected from over 120 applicants by my professor Kris Jordan to join the TAing team for the 700-student course.
+                        My first teaching experience came when I was a second-semester freshman. After completing my first programming class in the fall, COMP 110, I was one of a few selected from over 120 applicants by my professor Kris Jordan to join the TAing team for the 700-student course in the spring.
                     </p>
                     <p className="text-center">
                         First teaching in Java and later in TypeScript after the course changed languages, my main responsibilities were to tutor students one-on-one to help them complete assignments or review concepts and to help in the huge lectures when students had questions about in-class activities. Throughout my time with COMP 110, I individually tutored over 250 different students on over 350 separate occasions. I also mentored at semesterly hackathons, graded tests and quizzes, and answered student emails.
@@ -79,10 +79,10 @@ export default function Teaching() {
                         </small>
                     </p>
                     <p className="text-center">
-                        I concluded my time at UNC-Chapel Hill as a Teaching Assistant for a third class, COMP 116, during the first Summer session (or "Maymester") of 2020.
+                        I concluded my time at UNC-Chapel Hill as a Teaching Assistant for a third class, COMP 116, during the first summer session (or "Maymester") of 2020.
                     </p>
                     <p className="text-center">
-                        I was hired in the Spring by Professor Marc Neithammer, whom I knew of through my research experience in the department, to work alongside the instructor, graduate student Tom Christy, and three other TAs. This course was taught in Python and focused less on foundational programming fundamentals and more on applied uses for programming to help analyze scientific data, usually in the form of CSVs. I was responsible for grading assignments, tests, and answering student emails for one-fifth of the class, split between the four TAs and Tom. I also held one-on-one tutoring sessions for a few hours each week and wrote problems to help students practice their skills.
+                        I was hired in the spring by Professor Marc Neithammer, whom I knew of through my research experience in the department, to work alongside the instructor, graduate student Tom Christy, and three other TAs. This course was taught in Python and focused less on foundational programming fundamentals and more on applied uses for programming to help analyze scientific data, usually in the form of CSVs. I was responsible for one-fifth of the class - split between the four TAs and Tom - to grade assignments, tests, and answer student emails. I also held one-on-one tutoring sessions for a few hours each week and wrote problems to help students practice their skills.
                     </p>
                 </div>
 
