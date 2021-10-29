@@ -43,6 +43,5 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.14"
-  },
-  "homepage": "https://willberner.github.io/Portfolio/"
+  }
 }

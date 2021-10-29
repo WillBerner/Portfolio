@@ -8,7 +8,9 @@ export default function Portfolio() {
 
     return (
         <div className="container my-5">
-            <h2 className="mb-5 text-center">Project Portfolio</h2>
+            <h2 className="mb-3 text-center">Project Portfolio</h2>
+
+            <h6 className="mb-5 text-center">Javascript web projects</h6> 
 
             {/* Two projects per row maximum, so nested-map project pairs into rows */}
             {projectData.Projects.map((pair, i) => {

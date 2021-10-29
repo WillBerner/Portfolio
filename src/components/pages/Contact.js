@@ -39,7 +39,8 @@ export default function Contact() {
         <div className="container my-5">
             <div className="row justify-content-center">
                 <div className="col-6">
-                    <h2 className="mb-5 text-center">Contact Me</h2>
+                    <h2 className="text-center">Contact Me</h2>
+                    <p className="text-center mb-5"><small>Currently non-fuctional: Please reach out to my email or other provided social accounts!</small></p>
                     <form>
                         <div className="mb-3">
                             <label htmlFor="nameInput" className="form-label">Name</label>
