@@ -5,7 +5,8 @@ export default function Resume() {
     // Store proficiencies in array to list out
     let proficiencies = {
         frontend: ["HTML", "CSS", "JavaScript", "jQuery", "Responsive Design", "React", "Vue", "Bootstrap", "Materialize", "JSON"],
-        backend: ["APIs", "Node", "Express", "Routing", "MySQL, Sequelize", "MongoDB, Mongoose", "REST", "GraphQL", "Jest", "Axios"]
+        backend: ["APIs", "Node", "Express", "Routing", "MySQL, Sequelize", "MongoDB, Mongoose", "REST", "GraphQL", "Jest", "Axios"],
+        misc: []
     };
 
     // Render resume page
