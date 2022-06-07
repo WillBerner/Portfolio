@@ -35,9 +35,9 @@ export default function Header({ setPage, currentPage }) {
                         <li className="nav-item">
                             <button className={currentPage === "Research" ? "btn mt-1 fw-bold" : "btn mt-1"} onClick={setResearch} id="research">Research</button>
                         </li>
-                        <li className="nav-item">
+                        {/* <li className="nav-item">
                             <button className={currentPage === "Contact" ? "btn mt-1 fw-bold" : "btn mt-1"} onClick={setContact} id="contact">Contact</button>
-                        </li>
+                        </li> */}
                         <li className="nav-item">
                             <button className={currentPage === "Resume" ? "btn mt-1 fw-bold" : "btn mt-1"} onClick={setResume} id="resume">Resume</button>
                         </li>

@@ -37,13 +37,13 @@ export default function About() {
                     I'm a long time resident of central North Carolina - specifically Chapel Hill. I became interested in computer science when I was in middle school by building custom computers. I thought technology and computers were incredibly important considering how much I used them daily, so I thought I'd demystify the magic myself and learn how they work.
                 </p>
                 <p className="mb-4">
-                    As a freshman I ended up acing my first programming course at UNC, was recruited to be a TA, and went on to help teach intro courses for the next five semesters. With languages such as Java, Javascript, and Python, I've taught a wide range of topics from Object-Oriented to Functional Programming, ES6 and higher-order functions, the difference between reference and value types, and parsing scientific data for analysis. In addition, I assisted with research on multiple projects in the Computer Science Department for over two years as part of the Graphics and Virtual Reality Research Group.
+                    As a freshman I ended up loving my first programming course at UNC, was recruited to be a TA, and went on to help teach intro courses for the next five semesters. With languages such as Java, Typescript, and Python, I've taught a wide range of topics such as Object-Oriented vs Functional Programming, ES6 and higher-order functions, the difference between reference and value types, and parsing scientific data for analysis. In addition, I assisted with research on multiple projects in the Computer Science Department for over two years as part of the Graphics and Virtual Reality Research Group.
                 </p>
                 <p className="mb-4">
-                    I'm currently taking a Web Development Bootcamp to continue to learn new technologies and build on my skillset while I apply to full-time roles. I love any sort of programming from OOP to Functional, but enjoy creating Javascript web projects the most.
+                    I'm currently working as a Software Engineer at Fidelity Investments on the NetBenefits Homepage team. I love any sort of programming from OOP to Functional, but enjoy web development the most.
                 </p>
                 <p className="mb-4 mb-5">
-                    When I don't have VSCode pulled up, I'm out exercising, at home watching European soccer (#KTBFFH), or playing with my two-year-old dog, Sudo.
+                    When I don't have VSCode pulled up I'm either out exercising, at home watching European Football, or playing with my two-year-old dog, Sudo.
                 </p>
             </div>
 
